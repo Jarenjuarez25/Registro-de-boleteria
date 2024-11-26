@@ -1,2 +1,2 @@
-# Registro-de-boleteria
-Registro de boletería para agencias de transporte
+> [!NOTE]
+> Sistema de reservas de boletos para agencia de transportes, aplicacion de escritorio
